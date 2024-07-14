@@ -33,7 +33,7 @@ mkdir -p ~/trumprag/input
 ## one-api部署手册见：https://github.com/songquanpeng/one-api?tab=readme-ov-file#%E6%89%8B%E5%8A%A8%E9%83%A8%E7%BD%B2
 
 ##修改setting.yaml
-
+## 见https://github.com/flyrae/trumprag/blob/main/settings.yaml
 
 ```
 
